@@ -1,0 +1,13 @@
+Artificial Neuron - By Geetika saini - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=57111539
+artificial neuron consisting of dendrites,axon and threshold function
+
+ReLU - By Ringdongdang - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95947821
+Plot of the ReLU rectifier (blue) and GELU (green) functions near x = 0
+
+Neural Network - "Neural Network : basic scheme with legends" by fdecomite is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.
+
+Deep Neural Net - https://www.vectorstock.com/royalty-free-vector/neural-net-neuron-network-vector-10723960
+
+RNN - By https://commons.wikimedia.org/wiki/User:BiObserve (Raster version previously uploaded to Wikimedia)Alex Graves, Abdel-rahman Mohamed, and Geoffrey Hinton (original)Eddie Antonio Santos (SVG version with TeX math) - File:Long_Short_Term_Memory.pngAlex Graves, Abdel-rahman Mohamed, and Geoffrey Hinton. Speech recognition with deep recurrent neural networks. In Acoustics, Speech and Signal Processing (ICASSP), 2013 IEEE International Conference on, pages 6645–6649. IEEE, 2013., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=59931189
+
+RNN2 - By fdeloche - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=60109157
